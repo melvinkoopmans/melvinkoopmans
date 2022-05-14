@@ -16,9 +16,6 @@ Check out my [Goodreads 📚](https://goodreads.com/melvinkoopmans) for an overv
 You can also find me on [LinkedIn](https://www.linkedin.com/in/melvinkoopmans)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -53,11 +50,4 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/melvinkoopmans/melvinkoopmans/main/charts/bar_graph.png) 
-
-
- Last Updated on 14/05/2022 17:11:08 UTC
 <!--END_SECTION:waka-->
