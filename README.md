@@ -10,7 +10,7 @@ I currently work as a lead engineer at [Yard Digital Agency](https://github.com/
 * 🏛 Architecture of our applications and API's
 * 🔐 Security & privacy
 
-I've been programming since I was 12 years old and have been honing my skills ever since through experience, reading, experimenting, and courses.
+I've been programming since I was 12 years old and have been honing my skills ever since through work experience, reading, experimenting, and courses.
 Check out my [Goodreads 📚](https://goodreads.com/melvinkoopmans) for an overview of the books that I've read. 
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/melvinkoopmans)
